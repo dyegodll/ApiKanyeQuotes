@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\bin\Debug\net8.0\ApiKanyeThoughts.exe
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\bin\Debug\net8.0\ApiKanyeThoughts.deps.json
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\bin\Debug\net8.0\ApiKanyeThoughts.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\bin\Debug\net8.0\ApiKanyeThoughts.dll
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\bin\Debug\net8.0\ApiKanyeThoughts.pdb
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\obj\Debug\net8.0\ApiKanyeThoughts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\obj\Debug\net8.0\ApiKanyeThoughts.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\obj\Debug\net8.0\ApiKanyeThoughts.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\obj\Debug\net8.0\ApiKanyeThoughts.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\obj\Debug\net8.0\ApiKanyeThoughts.dll
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\obj\Debug\net8.0\refint\ApiKanyeThoughts.dll
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\obj\Debug\net8.0\ApiKanyeThoughts.pdb
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\obj\Debug\net8.0\ApiKanyeThoughts.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\ApiKanyeThoughts\ApiKanyeThoughts\obj\Debug\net8.0\ref\ApiKanyeThoughts.dll

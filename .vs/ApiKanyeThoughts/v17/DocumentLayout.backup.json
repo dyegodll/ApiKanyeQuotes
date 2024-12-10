@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dyego.lima\\source\\repos\\ApiKanyeThoughts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2EC061-0FEA-451C-896F-6B11E82290ED}|ApiKanyeThoughts\\ApiKanyeThoughts.csproj|c:\\users\\dyego.lima\\source\\repos\\apikanyethoughts\\apikanyethoughts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2EC061-0FEA-451C-896F-6B11E82290ED}|ApiKanyeThoughts\\ApiKanyeThoughts.csproj|solutionrelative:apikanyethoughts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2EC061-0FEA-451C-896F-6B11E82290ED}|ApiKanyeThoughts\\ApiKanyeThoughts.csproj|c:\\users\\dyego.lima\\source\\repos\\apikanyethoughts\\apikanyethoughts\\models\\kanyequote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2EC061-0FEA-451C-896F-6B11E82290ED}|ApiKanyeThoughts\\ApiKanyeThoughts.csproj|solutionrelative:apikanyethoughts\\models\\kanyequote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KanyeQuote.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\ApiKanyeThoughts\\ApiKanyeThoughts\\Models\\KanyeQuote.cs",
+              "RelativeDocumentMoniker": "ApiKanyeThoughts\\Models\\KanyeQuote.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\ApiKanyeThoughts\\ApiKanyeThoughts\\Models\\KanyeQuote.cs",
+              "RelativeToolTip": "ApiKanyeThoughts\\Models\\KanyeQuote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:47:43.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\ApiKanyeThoughts\\ApiKanyeThoughts\\Program.cs",
+              "RelativeDocumentMoniker": "ApiKanyeThoughts\\Program.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\ApiKanyeThoughts\\ApiKanyeThoughts\\Program.cs",
+              "RelativeToolTip": "ApiKanyeThoughts\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:45:59.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

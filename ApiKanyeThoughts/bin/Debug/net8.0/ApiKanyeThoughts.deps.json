@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ApiKanyeThoughts/1.0.0": {
+        "runtime": {
+          "ApiKanyeThoughts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiKanyeThoughts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
